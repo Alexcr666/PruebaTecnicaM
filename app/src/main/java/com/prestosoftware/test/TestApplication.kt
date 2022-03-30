@@ -1,0 +1,38 @@
+package com.prestosoftware.test
+
+import com.prestosoftware.test.di.DaggerAppComponent
+import dagger.android.AndroidInjector
+import dagger.android.DaggerApplication
+import timber.log.Timber
+
+class TestApplication: DaggerApplication() {
+
+    companion object {
+        const val API_KEY = "3739b2bf12fe7aa4fe62cc73a340d764"
+        const val API_LG = "en-US"
+        const val API_URL = "https://api.themoviedb.org/3/"
+        const val BD_NAME = "movies"
+
+        const val CATEGORY_POPULAR = "popular"
+        const val CATEGORY_TOP = "top_rated"
+        const val CATEGORY_UPCOMING = "upcoming"
+    }
+
+    private val appComponent = DaggerAppComponent.builder()
+        .application(this)
+        .build()
+
+    override fun onCreate() {
+        super.onCreate()
+        appComponent.inject(this)
+
+        if (BuildConfig.DEBUG) {
+            Timber.plant(Timber.DebugTree())
+        }
+    }
+
+    override fun applicationInjector(): AndroidInjector<out DaggerApplication> {
+        return appComponent
+    }
+
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_movie_detail_header.xml",
+        "source": "/Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/res/layout/layout_movie_detail_header.xml"
+    },
+    {
+        "merged": "/Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_popular_movie.xml",
+        "source": "/Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/res/layout/fragment_popular_movie.xml"
+    },
+    {
+        "merged": "/Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_movie_detail.xml",
+        "source": "/Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/res/layout/activity_movie_detail.xml"
+    },
+    {
+        "merged": "/Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_top_movie.xml",
+        "source": "/Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/res/layout/fragment_top_movie.xml"
+    },
+    {
+        "merged": "/Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_upcoming_movie.xml",
+        "source": "/Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/res/layout/fragment_upcoming_movie.xml"
+    },
+    {
+        "merged": "/Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_movie_detail_body.xml",
+        "source": "/Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/res/layout/layout_movie_detail_body.xml"
+    }
+]

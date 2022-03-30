@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "745254095803",
+    "firebase_url": "https://pruebanueva-c0635.firebaseio.com",
+    "project_id": "pruebanueva-c0635",
+    "storage_bucket": "pruebanueva-c0635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745254095803:android:246bac44ca247316",
+        "android_client_info": {
+          "package_name": "com.example.alexenriquecabarca.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745254095803-tc256cu4almtobkm4j8rg8agu0qtsfb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJEpZu5myiThULvW1PL6Y-3By47Ktc8dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745254095803-tc256cu4almtobkm4j8rg8agu0qtsfb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745254095803:android:24555a053dca97ef58929e",
+        "android_client_info": {
+          "package_name": "com.prestosoftware.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745254095803-tc256cu4almtobkm4j8rg8agu0qtsfb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJEpZu5myiThULvW1PL6Y-3By47Ktc8dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745254095803-tc256cu4almtobkm4j8rg8agu0qtsfb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,414 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/039371f0bd6484aff3d9bca7764b05bf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/7af4a3d97ae9044ac0fbe5268dd7c8c0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/5536bb8163f8d992b2a98c1b18a0f37e/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dd84094044a928e83dff2336c643e420/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9c739e9ad7023c41bac9a9a524c09b36/AndroidManifest.xml:2:1-11:12
+MERGED from [co.lujun:androidtagview:1.1.4] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/e66094dc1a7b2f882f13f37b74258ab0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.dagger:dagger-android-support:2.23.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/905e8e8b04d9aeac76dcebfed3580d23/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c6a0f696ff38ebcaa8a2f7ceb4279350/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c8cd21474f702200802f41b751b3dc34/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f127039ff690fd823c3548bf5b669326/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/76f659eac89017cfb01347ef7e75ed35/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/43c2c079425be7a59cfed179976f275c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/7b1c9e76e9514bb45264d04eed012d43/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.florent37:glidepalette:2.1.2] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9dcd80f5b78ae72ed1bb05e779aec8c2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/ea107591c55dde7f6e76717ebfde9cac/AndroidManifest.xml:2:1-12:12
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/8ba1ab6b50473bf028bae9e0a1760d94/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f397fd9c8b9aa64d9b60bee058671c46/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/effd980c808b1e57c27b6c3cb509bb65/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/ae7b0ccb73bc5eecbf44940daa229b83/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/77317999af1ec6845ec88656b1779d74/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/7eb47477c7125d67e27fa630ab41afa9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/bffacd7b992ec021c5efecade8ce6785/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.skydoves:baserecyclerviewadapter:0.1.3] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/673366ac25ba145accf1ab5b404d95d6/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/1c53e8944764210616f39a1a2ed78b97/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.paging:paging-runtime:2.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/d5d7a2b75bec5c724f8b6cdfac718626/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a5ede38303eba023e8a2127394596229/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9bd21305c360d4a2294281d9e2238736/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/b7b9b9cf674ec24e0e22ef45042aa072/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/bbd47ef9a575e758614b20de2c989d6a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/d242522dd67eafd42fa46eeaec587622/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/5c87ea9048bcc82a7580d936c133e62f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/6c07dfc495faecac344de5e75dffd13e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/3100d02a51aa81d6664f570d73dc627d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/08d495e8bf74eb7ec93d5cafc1aa7886/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a487f46af5953bca1d7e90db7b135ecb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/e85e827566f4e458bb311321a65ac60f/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/4f4629e7875b35bd3c6d5e73d613f0b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/3aed973e1183e338ee35d4d1714b3d11/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9e46259a685364071ad09cf9e61fa266/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a22ad8f206e3ffc5a850cf1080c0d0d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a43bfb2fd28c988657530f00887155f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/17b579c25acd674492411347d9e41f5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/1db0adf4bcacd671ced1a96a52d57ba9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/3e952089a05df11cb70ae58278c3dac7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a653e767603740d798cc72d2da134389/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/65724a9af7f95e995af90c8449644c4d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/20090a963afa5f3a72409bbec0c00e29/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/666369195b0b2d1a3ac002e0bf5a84f3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/99e36ebe50ee4d64f825ad050c1046a1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-testing:2.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/8af81f5f747291505f0b925d6e5ec535/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.0-rc01] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/22e0a2a98d6725879697137bd5240960/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/990ccb5f12c280c8914728b6fed4dbdd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/4033ede8288b867e38547ac144f579ab/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9912861aab4b247a899593d076ebbad2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c31c9cebf153728292c70042b5bc64f2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/32ecf62c9684d0d940ae356516190a0e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9e4d89dd20329e910066365274cbf2d9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.dagger:dagger-android:2.23.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/ee0d33d6f7f8a356c783a636041350b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c7d5f3093d80a29aef7f29ada534385f/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dcdae9be23b1115d1be1a3e34b0f9a0d/AndroidManifest.xml:17:1-27:12
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/6860358f6aa630b23413f314be0284bf/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/41082bab45999ab219c2a2ea98075419/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dc5d4c4ebe059fec1918f1c860c206df/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/d7367bedd2dcaaa283ee7f74dd0a845a/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c8e45664150063c7167f2c4ee62cba28/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/23caa615b4a35f103029e0c1e764e812/AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/cafa5ec19942c97250458d32a4454f7e/AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f00ccae52cbc533f2e95b3932cf0fe96/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/8e874600ff1766b3646aa92db4020e9c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/d69e44915cf527126c4c00c92d1d6662/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/31870cfc1ed82870dddfb6db79e6a2b5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/abb2747c5e2fc0891ec3384346b6c290/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/5742f24f115ebd03d0c29cf483c31e20/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/bdc7a5dc4b540dbb471fda3e08e3af7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/cf2d174c80b6881f20ce396207f52144/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/0384e679657cd6e988b52db3858ba4f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/99f8cea290f2c3e9e503b4cea9538e6d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/b92a802e2d020339be9e830cef283ee3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:monitor:1.1.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f3350d2a1ab2aa6397019d50551f8d07/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:7:5-26:19
+MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/5536bb8163f8d992b2a98c1b18a0f37e/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/5536bb8163f8d992b2a98c1b18a0f37e/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dd84094044a928e83dff2336c643e420/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dd84094044a928e83dff2336c643e420/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9c739e9ad7023c41bac9a9a524c09b36/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9c739e9ad7023c41bac9a9a524c09b36/AndroidManifest.xml:9:5-20
+MERGED from [co.lujun:androidtagview:1.1.4] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/e66094dc1a7b2f882f13f37b74258ab0/AndroidManifest.xml:11:5-12:19
+MERGED from [co.lujun:androidtagview:1.1.4] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/e66094dc1a7b2f882f13f37b74258ab0/AndroidManifest.xml:11:5-12:19
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c6a0f696ff38ebcaa8a2f7ceb4279350/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c6a0f696ff38ebcaa8a2f7ceb4279350/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c8cd21474f702200802f41b751b3dc34/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c8cd21474f702200802f41b751b3dc34/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f127039ff690fd823c3548bf5b669326/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f127039ff690fd823c3548bf5b669326/AndroidManifest.xml:11:5-20
+MERGED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:27:5-38:19
+MERGED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:27:5-38:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/ea107591c55dde7f6e76717ebfde9cac/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/ea107591c55dde7f6e76717ebfde9cac/AndroidManifest.xml:10:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/8ba1ab6b50473bf028bae9e0a1760d94/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/8ba1ab6b50473bf028bae9e0a1760d94/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f397fd9c8b9aa64d9b60bee058671c46/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f397fd9c8b9aa64d9b60bee058671c46/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a653e767603740d798cc72d2da134389/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a653e767603740d798cc72d2da134389/AndroidManifest.xml:24:5-89
+MERGED from [androidx.room:room-runtime:2.2.0-rc01] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/22e0a2a98d6725879697137bd5240960/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.0-rc01] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/22e0a2a98d6725879697137bd5240960/AndroidManifest.xml:24:5-28:19
+MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9e4d89dd20329e910066365274cbf2d9/AndroidManifest.xml:9:5-20
+MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9e4d89dd20329e910066365274cbf2d9/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c7d5f3093d80a29aef7f29ada534385f/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c7d5f3093d80a29aef7f29ada534385f/AndroidManifest.xml:7:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dcdae9be23b1115d1be1a3e34b0f9a0d/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dcdae9be23b1115d1be1a3e34b0f9a0d/AndroidManifest.xml:24:5-25:19
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/6860358f6aa630b23413f314be0284bf/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/6860358f6aa630b23413f314be0284bf/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/41082bab45999ab219c2a2ea98075419/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/41082bab45999ab219c2a2ea98075419/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dc5d4c4ebe059fec1918f1c860c206df/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dc5d4c4ebe059fec1918f1c860c206df/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/d7367bedd2dcaaa283ee7f74dd0a845a/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/d7367bedd2dcaaa283ee7f74dd0a845a/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c8e45664150063c7167f2c4ee62cba28/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c8e45664150063c7167f2c4ee62cba28/AndroidManifest.xml:11:5-20
+MERGED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:26:5-48:19
+MERGED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:26:5-48:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/5742f24f115ebd03d0c29cf483c31e20/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/5742f24f115ebd03d0c29cf483c31e20/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a653e767603740d798cc72d2da134389/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:8:9-63
+activity#com.prestosoftware.test.rappi.ui.main.MainActivity
+ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:15:9-22:20
+	android:name
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:16:13-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.prestosoftware.test.rappi.ui.movie.detail.MovieDetailActivity
+ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:23:9-25:50
+	android:theme
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:25:13-47
+	android:name
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml:24:13-93
+uses-sdk
+INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/039371f0bd6484aff3d9bca7764b05bf/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/039371f0bd6484aff3d9bca7764b05bf/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/7af4a3d97ae9044ac0fbe5268dd7c8c0/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/7af4a3d97ae9044ac0fbe5268dd7c8c0/AndroidManifest.xml:22:5-44
+MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/5536bb8163f8d992b2a98c1b18a0f37e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/5536bb8163f8d992b2a98c1b18a0f37e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dd84094044a928e83dff2336c643e420/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dd84094044a928e83dff2336c643e420/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9c739e9ad7023c41bac9a9a524c09b36/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9c739e9ad7023c41bac9a9a524c09b36/AndroidManifest.xml:5:5-7:41
+MERGED from [co.lujun:androidtagview:1.1.4] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/e66094dc1a7b2f882f13f37b74258ab0/AndroidManifest.xml:7:5-9:41
+MERGED from [co.lujun:androidtagview:1.1.4] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/e66094dc1a7b2f882f13f37b74258ab0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.dagger:dagger-android-support:2.23.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/905e8e8b04d9aeac76dcebfed3580d23/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.23.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/905e8e8b04d9aeac76dcebfed3580d23/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c6a0f696ff38ebcaa8a2f7ceb4279350/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c6a0f696ff38ebcaa8a2f7ceb4279350/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c8cd21474f702200802f41b751b3dc34/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c8cd21474f702200802f41b751b3dc34/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f127039ff690fd823c3548bf5b669326/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f127039ff690fd823c3548bf5b669326/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/76f659eac89017cfb01347ef7e75ed35/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/76f659eac89017cfb01347ef7e75ed35/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/43c2c079425be7a59cfed179976f275c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/43c2c079425be7a59cfed179976f275c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.fragment:fragment-ktx:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/7b1c9e76e9514bb45264d04eed012d43/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/7b1c9e76e9514bb45264d04eed012d43/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.florent37:glidepalette:2.1.2] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9dcd80f5b78ae72ed1bb05e779aec8c2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.florent37:glidepalette:2.1.2] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9dcd80f5b78ae72ed1bb05e779aec8c2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/ea107591c55dde7f6e76717ebfde9cac/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/ea107591c55dde7f6e76717ebfde9cac/AndroidManifest.xml:6:5-8:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/8ba1ab6b50473bf028bae9e0a1760d94/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/8ba1ab6b50473bf028bae9e0a1760d94/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f397fd9c8b9aa64d9b60bee058671c46/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f397fd9c8b9aa64d9b60bee058671c46/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/effd980c808b1e57c27b6c3cb509bb65/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/effd980c808b1e57c27b6c3cb509bb65/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/ae7b0ccb73bc5eecbf44940daa229b83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/ae7b0ccb73bc5eecbf44940daa229b83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/77317999af1ec6845ec88656b1779d74/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/77317999af1ec6845ec88656b1779d74/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/7eb47477c7125d67e27fa630ab41afa9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/7eb47477c7125d67e27fa630ab41afa9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/bffacd7b992ec021c5efecade8ce6785/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/bffacd7b992ec021c5efecade8ce6785/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.skydoves:baserecyclerviewadapter:0.1.3] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/673366ac25ba145accf1ab5b404d95d6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.skydoves:baserecyclerviewadapter:0.1.3] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/673366ac25ba145accf1ab5b404d95d6/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/1c53e8944764210616f39a1a2ed78b97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/1c53e8944764210616f39a1a2ed78b97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/d5d7a2b75bec5c724f8b6cdfac718626/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/d5d7a2b75bec5c724f8b6cdfac718626/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a5ede38303eba023e8a2127394596229/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a5ede38303eba023e8a2127394596229/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9bd21305c360d4a2294281d9e2238736/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9bd21305c360d4a2294281d9e2238736/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/b7b9b9cf674ec24e0e22ef45042aa072/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/b7b9b9cf674ec24e0e22ef45042aa072/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/bbd47ef9a575e758614b20de2c989d6a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/bbd47ef9a575e758614b20de2c989d6a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/d242522dd67eafd42fa46eeaec587622/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/d242522dd67eafd42fa46eeaec587622/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/5c87ea9048bcc82a7580d936c133e62f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/5c87ea9048bcc82a7580d936c133e62f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/6c07dfc495faecac344de5e75dffd13e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/6c07dfc495faecac344de5e75dffd13e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/3100d02a51aa81d6664f570d73dc627d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/3100d02a51aa81d6664f570d73dc627d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/08d495e8bf74eb7ec93d5cafc1aa7886/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/08d495e8bf74eb7ec93d5cafc1aa7886/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a487f46af5953bca1d7e90db7b135ecb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a487f46af5953bca1d7e90db7b135ecb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/e85e827566f4e458bb311321a65ac60f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/e85e827566f4e458bb311321a65ac60f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.transition:transition:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/4f4629e7875b35bd3c6d5e73d613f0b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/4f4629e7875b35bd3c6d5e73d613f0b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/3aed973e1183e338ee35d4d1714b3d11/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/3aed973e1183e338ee35d4d1714b3d11/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9e46259a685364071ad09cf9e61fa266/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9e46259a685364071ad09cf9e61fa266/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a22ad8f206e3ffc5a850cf1080c0d0d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a22ad8f206e3ffc5a850cf1080c0d0d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a43bfb2fd28c988657530f00887155f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a43bfb2fd28c988657530f00887155f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/17b579c25acd674492411347d9e41f5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/17b579c25acd674492411347d9e41f5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/1db0adf4bcacd671ced1a96a52d57ba9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/1db0adf4bcacd671ced1a96a52d57ba9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/3e952089a05df11cb70ae58278c3dac7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/3e952089a05df11cb70ae58278c3dac7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a653e767603740d798cc72d2da134389/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/a653e767603740d798cc72d2da134389/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/65724a9af7f95e995af90c8449644c4d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/65724a9af7f95e995af90c8449644c4d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/20090a963afa5f3a72409bbec0c00e29/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/20090a963afa5f3a72409bbec0c00e29/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/666369195b0b2d1a3ac002e0bf5a84f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/666369195b0b2d1a3ac002e0bf5a84f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/99e36ebe50ee4d64f825ad050c1046a1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/99e36ebe50ee4d64f825ad050c1046a1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-testing:2.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/8af81f5f747291505f0b925d6e5ec535/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-testing:2.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/8af81f5f747291505f0b925d6e5ec535/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.0-rc01] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/22e0a2a98d6725879697137bd5240960/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.0-rc01] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/22e0a2a98d6725879697137bd5240960/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/990ccb5f12c280c8914728b6fed4dbdd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/990ccb5f12c280c8914728b6fed4dbdd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/4033ede8288b867e38547ac144f579ab/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/4033ede8288b867e38547ac144f579ab/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9912861aab4b247a899593d076ebbad2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9912861aab4b247a899593d076ebbad2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c31c9cebf153728292c70042b5bc64f2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c31c9cebf153728292c70042b5bc64f2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/32ecf62c9684d0d940ae356516190a0e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/32ecf62c9684d0d940ae356516190a0e/AndroidManifest.xml:20:5-22:41
+MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9e4d89dd20329e910066365274cbf2d9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/9e4d89dd20329e910066365274cbf2d9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.dagger:dagger-android:2.23.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/ee0d33d6f7f8a356c783a636041350b5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.23.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/ee0d33d6f7f8a356c783a636041350b5/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c7d5f3093d80a29aef7f29ada534385f/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c7d5f3093d80a29aef7f29ada534385f/AndroidManifest.xml:5:5-43
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dcdae9be23b1115d1be1a3e34b0f9a0d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dcdae9be23b1115d1be1a3e34b0f9a0d/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/6860358f6aa630b23413f314be0284bf/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/6860358f6aa630b23413f314be0284bf/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/41082bab45999ab219c2a2ea98075419/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/41082bab45999ab219c2a2ea98075419/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dc5d4c4ebe059fec1918f1c860c206df/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/dc5d4c4ebe059fec1918f1c860c206df/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/d7367bedd2dcaaa283ee7f74dd0a845a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/d7367bedd2dcaaa283ee7f74dd0a845a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c8e45664150063c7167f2c4ee62cba28/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/c8e45664150063c7167f2c4ee62cba28/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/23caa615b4a35f103029e0c1e764e812/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/23caa615b4a35f103029e0c1e764e812/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/cafa5ec19942c97250458d32a4454f7e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/cafa5ec19942c97250458d32a4454f7e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f00ccae52cbc533f2e95b3932cf0fe96/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f00ccae52cbc533f2e95b3932cf0fe96/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/8e874600ff1766b3646aa92db4020e9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/8e874600ff1766b3646aa92db4020e9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/d69e44915cf527126c4c00c92d1d6662/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha04] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/d69e44915cf527126c4c00c92d1d6662/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/31870cfc1ed82870dddfb6db79e6a2b5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/31870cfc1ed82870dddfb6db79e6a2b5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/abb2747c5e2fc0891ec3384346b6c290/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/abb2747c5e2fc0891ec3384346b6c290/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/5742f24f115ebd03d0c29cf483c31e20/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/5742f24f115ebd03d0c29cf483c31e20/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/bdc7a5dc4b540dbb471fda3e08e3af7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/bdc7a5dc4b540dbb471fda3e08e3af7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/cf2d174c80b6881f20ce396207f52144/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/cf2d174c80b6881f20ce396207f52144/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/0384e679657cd6e988b52db3858ba4f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/0384e679657cd6e988b52db3858ba4f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/99f8cea290f2c3e9e503b4cea9538e6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/99f8cea290f2c3e9e503b4cea9538e6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/b92a802e2d020339be9e830cef283ee3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/b92a802e2d020339be9e830cef283ee3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:monitor:1.1.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f3350d2a1ab2aa6397019d50551f8d07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.1.1] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f3350d2a1ab2aa6397019d50551f8d07/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexenrique/Documents/Proyectos Final/pruebaTecnicaKotlin/TheMovieApp-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:25:5-72
+MERGED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:24:5-72
+MERGED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:25:22-69
+activity#androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+ADDED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:28:9-37:20
+	android:multiprocess
+		ADDED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:33:13-78
+	android:taskAffinity
+		ADDED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:29:13-96
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.fragment:fragment-testing:1.2.0-alpha03] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/f19f134ba69a241e0e7753ceb7555c5a/AndroidManifest.xml:34:13-36:29
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.0-rc01] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/22e0a2a98d6725879697137bd5240960/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.0-rc01] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/22e0a2a98d6725879697137bd5240960/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.0-rc01] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/22e0a2a98d6725879697137bd5240960/AndroidManifest.xml:26:13-74
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:27:9-33:20
+	android:theme
+		ADDED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:29:13-88
+	android:name
+		ADDED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:28:13-99
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:34:9-40:20
+	android:theme
+		ADDED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:36:13-84
+	android:name
+		ADDED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:35:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:41:9-47:20
+	android:theme
+		ADDED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:43:13-87
+	android:name
+		ADDED from [androidx.test:core:1.1.0] /Users/alexenrique/.gradle/caches/transforms-2/files-2.1/03f5e5ec3baffde124cca5e0ff0df291/AndroidManifest.xml:42:13-103

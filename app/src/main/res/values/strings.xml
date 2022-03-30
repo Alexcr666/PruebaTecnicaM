@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Prueba tecnica</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="retry">Retry</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="search_hint">search movies</string>
+
+    <string name="transition_profile">transition_profile</string>
+    <string name="menu_movie_popular">Popular</string>
+    <string name="menu_top">Series</string>
+    <string name="menu_upcoming">Favoritas</string>
+    <string name="menu_search">Search</string>
+    <string name="txt_summary">Summary</string>
+    <string name="txt_trailers">Trailers</string>
+
+    <string name="post_hits">Post Hits</string>
+    <string name="post_removed_error">Error post removed</string>
+    <string name="post_removed_successful">Post removed</string>
+</resources>
